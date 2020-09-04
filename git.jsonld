@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "schema": "http://schema.org/",
+    "repository": {
+      "@id": "schema:codeRepository",
+      "@type": "@id"
+    },
+    "branch": {
+      "@id": "schema:text"
+    },
+    "file": {
+      "@id": "schema:text"
+    }
+  }
+}
