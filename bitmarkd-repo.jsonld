@@ -1,0 +1,10 @@
+{
+  "@context": "https://lemonlatte.github.io/git.jsonld",
+  "@id": "https://lemonlatte.github.io/bitmarkd-repo.jsonld",
+  "repository": "https://github.com/bitmark-inc/bitmarkd",
+  "branch": "master",
+  "file": [
+  	"README.md",
+    "doc/**"
+  ]
+}
