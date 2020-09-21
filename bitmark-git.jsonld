@@ -4,7 +4,7 @@
     "id": "@id",
     "type": "@type",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
-    "git": "https://capability-manager-demo.web.app/caps/v1/git.jsonld#",
+    "git": "https://lemonlatte.github.io/bitmark-git.jsonld#",
     "branchRegExp": "xsd:string",
     "branchCaveat": "xsd:string"
   }
